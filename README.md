@@ -70,7 +70,7 @@ This project facilitates decentralized file upload and sharing on the blockchain
 Once the setup and configuration are complete, follow these steps to utilize the decentralized image upload and sharing system:
 
 1. **Install Metamask:**
-   - Ensure Metamask is installed and configured in your browser for Ethereum interactions.
+   - Ensure Metamask is installed and configured in your browser for Ethereum interactions; since we have used Hardhat as the environment therefore we will add a new network "Hardhat" (fot the RPC url use **http://127.0.0.1:8545/** and for the ChainID use **31337** (_Note_: Before doing this make sure you are running your Hardhat server locally, if you are not then it will show an Error).
 
 2. **Update Contract Address:**
    - After smart contract deployment, make sure to update the contract address in `App.js` within the React application.
