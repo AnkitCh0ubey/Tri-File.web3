@@ -21,7 +21,7 @@ This project facilitates decentralized file upload and sharing on the blockchain
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/decentralized-image-upload.git
+   git clone https://github.com/ankitch0ubey/Tri-File.web3
    ```
 2. Install dependencies for the hardhat:
    ```bash
